@@ -2,7 +2,6 @@ import time
 import microbit
 from microbit import *
 
-
 b=pin0
 microbit.display.set_pixel(4,4, 9)
 while True:
